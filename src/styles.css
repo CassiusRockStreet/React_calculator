@@ -1,0 +1,47 @@
+body{
+    margin-top:10px;
+}
+.TableApp{
+    width:20vw;    
+    margin: 0 auto;
+    background:#ccc;
+    border:none;
+}
+.TableApp tr{
+    width:99%;
+    border:none;
+}
+.TableApp td{
+    padding:0px;
+    margin:0px;
+    border:none;
+}
+.TableApp button{
+    width:100%;
+    padding:10px 1px;
+    margin: 0px;
+    border-radius:0px;
+    border:none
+}
+.TableApp button:hover{
+    background: #ddd;
+    cursor:pointer;
+    color:#000;
+}
+.TableApp input{
+    width:20vw;
+    padding:7px 3px;
+    text-align:right;
+    font-size:18px;
+    background:#ddd;
+    border:none
+}
+#lastRow button{
+    background:darkorange;
+    color: #fff;
+    border:none;
+    font-size:1em
+}
+#lastRow button:hover{
+    background:none;
+}
